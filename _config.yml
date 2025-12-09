@@ -1,0 +1,10 @@
+# _config.yml
+title: 枫枫电竞俱乐部
+description: 专业电竞计时与费用计算系统
+baseurl: ""
+url: "https://lyz218.github.io/ffclub"
+
+# 禁用Jekyll处理
+theme: null
+plugins: []
+exclude: [".nojekyll", "README.md"]
